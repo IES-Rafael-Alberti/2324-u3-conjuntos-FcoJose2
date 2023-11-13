@@ -10,7 +10,7 @@ Encuentra la intersección entre los conjuntos pares y multiplos_de_tres y guár
 def numerosPares(numeros):
     pares = {}
     pares = set(pares)
-    for x in range(numeros, len(numeros), 2):
+    for x in range(len(numeros), 2):
         pares.add(x)
     return pares
 
