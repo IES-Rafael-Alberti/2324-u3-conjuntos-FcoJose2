@@ -31,10 +31,6 @@ def solo_en_frutas2(set_frutas1, set_frutas2):
 
 
 
-
-
-
-
 if __name__ == "__main__":
     #Entrada
     frutas1 = ["manzana", "pera", "naranja", "plátano", "uva"]
